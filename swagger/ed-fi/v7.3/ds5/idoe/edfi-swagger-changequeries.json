@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:54746/{Tenant/Context Selection}/data/v3",
+      "url": "http://localhost:54746/{Tenant/Context Selection}/ChangeQueries/v1",
       "variables": {
         "Tenant/Context Selection": {
           "default": "",
